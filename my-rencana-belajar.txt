@@ -1,7 +1,7 @@
 - MELANJUTKAN FRONT END {
   -TAILWIND CSS {
     -WEB DARK MODE {
-      -GUNAKAN BOOTSTRAP + CSS
+      -GUNAKAN REACT JS
     }
     -WEB LIGHT MODE{
       -GUNAKAN BOOTSTRAP + JS
@@ -14,7 +14,7 @@
   }
   -PROYEK WEB {
     -PENJADWALAN TUGAS{
-      -BIKIN DENGAN PHP
+      -GUNAKAN PHP
     }
   }
 }
