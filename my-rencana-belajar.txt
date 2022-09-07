@@ -4,7 +4,7 @@
       -GUNAKAN BOOTSTRAP + CSS
     }
     -WEB LIGHT MODE{
-      -GUNAKAN BOOTSTRAP + CSS
+      -GUNAKAN BOOTSTRAP + JS
     }
   }
   -RESPONSIF WEB {
