@@ -6,7 +6,7 @@
   }
   -RESPONSIF WEB {
     -CSS MEDIA QUERY{
-      -TAMBAHKAN IDE
+      -PELAJARI DI YT DEA AFRIZAL
     }
   }
   -PROYEK WEB {
